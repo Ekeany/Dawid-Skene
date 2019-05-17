@@ -127,7 +127,7 @@ All images represent the decision tree structure for each model in order of comp
 ### Dawid & Skene:
 
 <p align="center">
-  <img width="679" height="473" src="/Images_/image16PNG">
+  <img width="679" height="473" src="/Images_/image16.PNG">
 </p> 
 
 
