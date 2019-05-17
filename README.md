@@ -1,0 +1,2 @@
+# Dawid-Skene
+The assignment requires you to build models for classifying the polarity (i.e. positive or negative sentiment) of sentences in movie reviews. The assignment is based on movie reviews collected from the Rotten Tomatoes website1 and polarity labels provided by crowd workers in Amazon Mechanical Turk. The dataset provided for this assignment contains three CSV files, as described below:
