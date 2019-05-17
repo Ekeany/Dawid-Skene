@@ -14,4 +14,12 @@ Test.csv: This dataset is similar to the gold standard were the sentiment classi
 
 The distribution of labels in the gold.csv file was found to be approximately equal as seen below.
 
+<p align="center">
+  <img width="351" height="317" src="/Images_/image1.PNG">
+</p>
 
+Despite this a stratified sampling technique was implemented. This technique divides the population (by their label) into two separate groups, called strata. Then, a standard random sampling technique from pandas was used to extract 500 reviews from each strata. Both of these separate samples were then combined together to produce the final result which was then stored in the gold_sample.csv file. As seen below the gold_sample contains an equal split of 500 ironic and non-ironic randomly selected reviews. 
+
+<p align="center">
+  <img width="560" height="234" src="/Images_/image2.PNG">
+</p>
